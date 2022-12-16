@@ -1,0 +1,3 @@
+{
+    "python.autoComplete.extraPaths": ["../install_requirements.py"]
+}
